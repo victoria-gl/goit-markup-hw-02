@@ -1,9 +1,44 @@
-body{
-    font-family: 'Raleway', sans-serif;
-    background-color: #ffffff;
+/* Base styles */
+
+header {
+  background-color: #ffffff;
 }
 
-header{
-    background-color: #E7E9FC;
+body {
+  font-family: 'Raleway', sans-serif;
+  background-color: #ffffff;
+  color: #2e2f42;
 }
 
+/* header */
+
+header {
+  border-bottom: 1px solid #e7e9fc;
+  background: #ffffff;
+}
+
+.menu-nav {
+}
+
+.address {
+}
+
+/* Main */
+
+.hero {
+  background-color: #2e2f42;
+}
+
+.advantages {
+}
+
+.whatwedo {
+}
+
+.ourteam {
+  background-color: #f4f4fd;
+}
+
+footer {
+  background-color: #2e2f42;
+}
