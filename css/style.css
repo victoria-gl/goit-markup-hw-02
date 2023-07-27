@@ -1,13 +1,13 @@
 /* Base styles */
 
-header {
-  background-color: #ffffff;
-}
-
 body {
   font-family: 'Raleway', sans-serif;
   background-color: #ffffff;
   color: #2e2f42;
+}
+
+.link {
+  text-decoration: none;
 }
 
 /* header */
@@ -17,10 +17,18 @@ header {
   background: #ffffff;
 }
 
-.menu-nav {
+/* Navigation */
+
+.menu-nav-logo {
+}
+.menu-nav-list {
+}
+.menu-nav-list-item {
 }
 
-.address {
+/* Contacts */
+
+.address-list {
 }
 
 /* Main */
@@ -28,17 +36,53 @@ header {
 .hero {
   background-color: #2e2f42;
 }
+.hero-title {
+}
+.hero-btn {
+}
+
+/* Advantages */
 
 .advantages {
 }
+.advantages-title {
+}
+.advantages-list {
+}
+.advantages-list-item {
+}
+.advantages-list-subtitle {
+}
+.advantages-list-desc {
+}
+
+/* What we do  */
 
 .whatwedo {
 }
+.whatwedo-title {
+}
+.whatwedo-list {
+}
+.whatwedo-list-item {
+}
+
+/* Our Team */
 
 .ourteam {
   background-color: #f4f4fd;
 }
+.ourteam-title {
+}
+.ourteam-list {
+}
+.ourteam-list-item {
+}
+
+/* Footer */
 
 footer {
   background-color: #2e2f42;
 }
+
+.footer-desc
