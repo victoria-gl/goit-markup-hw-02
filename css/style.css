@@ -1,13 +1,17 @@
 /* Base styles */
 
 body {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
   background-color: #ffffff;
   color: #2e2f42;
 }
 
 .link {
   text-decoration: none;
+}
+
+.list {
+  list-style: none;
 }
 
 /* header */
@@ -19,11 +23,12 @@ header {
 
 /* Navigation */
 
-.menu-nav-logo {
-}
-.menu-nav-list {
-}
 .menu-nav-list-item {
+  color: #2e2f42;
+}
+
+.menu-nav-list-item:hover {
+  color: #404bbf;
 }
 
 /* Contacts */
@@ -85,4 +90,5 @@ footer {
   background-color: #2e2f42;
 }
 
-.footer-desc
+.footer-desc {
+}
