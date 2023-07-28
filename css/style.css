@@ -6,12 +6,12 @@ body {
   color: #434455;
 }
 
-.link {
-  text-decoration: none;
-}
-
 .list {
   list-style: none;
+}
+
+.link {
+  text-decoration: none;
 }
 
 :root {
@@ -26,12 +26,27 @@ header {
 
 /* Navigation */
 
-.menu-nav-list-item {
+.nav {
+}
+
+.nav-link {
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 21px;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+span {
   color: #2e2f42;
 }
 
-.menu-nav-list-item:hover {
-  color: #404bbf;
+.nav-list {
+}
+.nav-list-item {
 }
 
 /* Contacts */
