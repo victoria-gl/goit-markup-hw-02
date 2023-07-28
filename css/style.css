@@ -8,7 +8,6 @@ body {
 
 .list {
   list-style: none;
-  font-style: normal;
 }
 
 .link {
@@ -75,7 +74,7 @@ span {
 
 .address-list {
   color: #434455;
-  font-family: Roboto;
+  font-family: 'Roboto' sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -106,8 +105,31 @@ span {
   background-color: #2e2f42;
 }
 .hero-title {
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 1.12px;
 }
 .hero-btn {
+  color: #ffffff;
+  background-color: #4d5ae5;
+
+  /* Button Text */
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.64px;
+}
+
+.hero-btn:hover,
+.hero-btn:focus {
+  color: #ffffff;
+  background-color: #404bbf;
 }
 
 /* Advantages */
