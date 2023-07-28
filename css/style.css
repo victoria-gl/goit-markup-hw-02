@@ -167,15 +167,13 @@ span {
 .whatwedo {
 }
 .whatwedo-title {
-  color: #2e2f42;
-  text-align: center;
-  font-family: Roboto;
   font-size: 36px;
-  font-style: normal;
-  font-weight: 700;
   line-height: 1.11;
+  text-align: center;
   letter-spacing: 0.72px;
+  color: #2e2f42;
   text-transform: capitalize;
+  font-family: 'Roboto' sans-serif;
 }
 .whatwedo-list {
 }
