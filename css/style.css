@@ -72,6 +72,9 @@ span {
 
 /* Contacts */
 
+address {
+  font-style: normal;
+}
 .address-list {
   font-style: normal;
   color: #434455;
