@@ -231,18 +231,18 @@ span {
 }
 
 .footer-link {
-  color: #f4f4fd;
+  color: #4d5ae5;
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 800;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
 
 .span-2 {
-  color: #4d5ae5;
+  color: #f4f4fd;
 }
 
 .footer-desc {
