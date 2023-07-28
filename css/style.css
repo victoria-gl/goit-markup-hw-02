@@ -3,7 +3,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   background-color: #ffffff;
-  color: #2e2f42;
+  color: #434455;
 }
 
 .link {
@@ -12,6 +12,10 @@ body {
 
 .list {
   list-style: none;
+}
+
+:root {
+  --brand-color: #434455;
 }
 
 /* header */
