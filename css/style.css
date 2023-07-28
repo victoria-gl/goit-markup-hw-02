@@ -226,9 +226,31 @@ span {
 
 /* Footer */
 
-footer {
+.footer {
   background-color: #2e2f42;
 }
 
+.footer-link {
+  color: #f4f4fd;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 1.16;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
+
+.span-2 {
+  color: #4d5ae5;
+}
+
 .footer-desc {
+  color: #f4f4fd;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
 }
