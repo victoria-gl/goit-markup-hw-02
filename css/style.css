@@ -145,16 +145,16 @@ span {
 }
 .advantages-list-subtitle {
   color: #2e2f42;
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
-  line-height: 24px; /* 120% */
+  line-height: 1.2;
   letter-spacing: 0.4px;
 }
 .advantages-list-desc {
   color: #434455;
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
