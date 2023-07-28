@@ -12,6 +12,7 @@ body {
 
 .link {
   text-decoration: none;
+  line-height: 1.17;
 }
 
 :root {
