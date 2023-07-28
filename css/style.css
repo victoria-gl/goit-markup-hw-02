@@ -106,7 +106,7 @@ span {
 }
 .hero-title {
   color: #ffffff;
-  font-family: Roboto;
+  font-family: 'Roboto';
   font-size: 56px;
   font-style: normal;
   font-weight: 700;
@@ -116,9 +116,7 @@ span {
 .hero-btn {
   color: #ffffff;
   background-color: #4d5ae5;
-
-  /* Button Text */
-  font-family: Roboto;
+  font-family: 'Roboto';
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
